@@ -1,0 +1,3 @@
+This is my first time using VS Code
+This is also my first time doing The Odin Project
+So, here I am to say "Hello World! Here I come for all the coding!"
